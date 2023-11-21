@@ -1,6 +1,10 @@
 ---
 :lessons:
-- :id: 224963
+- :id: 250568
   :course_id: 6667
-  :canvas_url: https://learning.flatironschool.com/courses/6667/assignments/224963
-  :type: assignment
+  :canvas_url: https://learning.flatironschool.com/courses/6667/pages/practice-challenge-pokemon-searcher
+  :type: page
+- :id: 296580
+  :course_id: 7553
+  :canvas_url: https://learning.flatironschool.com/courses/7553/pages/practice-challenge-pokemon-searcher
+  :type: page
